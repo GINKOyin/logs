@@ -1,0 +1,968 @@
+14:44:20.677 [ATL-Logging-Thread] INFO  - Organising filesystem
+
+14:44:20.679 [ATL-Logging-Thread] INFO  - Language set to 中文 (中国)
+
+14:44:20.767 [ATL-Logging-Thread] INFO  - ATLauncher Version: 3.4.40.2 [dc9c38e470b84447b0befa10ff0c714bb3b2c668]
+
+14:44:20.768 [ATL-Logging-Thread] INFO  - App Arguments: []
+
+14:44:20.768 [ATL-Logging-Thread] INFO  - JVM Arguments: ["-Djna.nosys=true","-Djava.net.preferIPv4Stack=true","-Dawt.useSystemAAFontSettings=on","-Dswing.aatext=true"]
+
+14:44:20.768 [ATL-Logging-Thread] INFO  - Java Version: Java 17 (17.0.9)
+
+14:44:20.768 [ATL-Logging-Thread] INFO  - 64 Bit Java: true
+
+14:44:20.769 [ATL-Logging-Thread] INFO  - RAM Available: 31879MB
+
+14:44:20.769 [ATL-Logging-Thread] INFO  - Launcher Directory: **USERSDIR**
+
+14:44:20.772 [ATL-Logging-Thread] INFO  - GPU: AMD Radeon(TM) Graphics (Advanced Micro Devices, Inc.) 32.0.13066.12 512MB VRAM
+
+14:44:20.779 [ATL-Logging-Thread] INFO  - GPU: NVIDIA GeForce RTX 5060 (NVIDIA) 32.0.15.8180 8151MB VRAM
+
+14:44:20.910 [ATL-Logging-Thread] INFO  - CPU: AMD Ryzen 7 9700X 8-Core Processor 8 cores/16 threads
+
+14:44:20.926 [ATL-Logging-Thread] INFO  - Operating System: Windows (11 build 26200)
+
+14:44:20.927 [ATL-Logging-Thread] INFO  - Bitness: 64
+
+14:44:20.928 [ATL-Logging-Thread] INFO  - Uptime: 422932
+
+14:44:20.929 [ATL-Logging-Thread] INFO  - Manufacturer: Microsoft
+
+14:44:21.125 [ATL-Logging-Thread] INFO  - Showing splash screen and loading everything
+
+14:44:21.126 [ATL-Logging-Thread] INFO  - Checking for updated files!
+
+14:44:22.228 [ATL-Logging-Thread] INFO  - Checking for updates to CurseForge instances
+
+14:44:22.267 [ATL-Logging-Thread] INFO  - Launcher finished loading everything
+
+14:44:22.311 [ATL-Logging-Thread] INFO  - Launcher opening
+
+14:44:22.312 [ATL-Logging-Thread] INFO  - Made By Bob*
+
+14:44:22.312 [ATL-Logging-Thread] INFO  - *(Not Actually)
+
+14:44:22.314 [ATL-Logging-Thread] INFO  - Setting up Bottom Bar
+
+14:44:22.345 [ATL-Logging-Thread] INFO  - Finished Setting up Bottom Bar
+
+14:44:22.345 [ATL-Logging-Thread] INFO  - Setting up Tabs
+
+14:44:22.450 [ATL-Logging-Thread] INFO  - Finished Setting up Tabs
+
+14:44:22.450 [ATL-Logging-Thread] INFO  - Showing Launcher
+
+14:44:25.172 [ATL-Logging-Thread] INFO  - Preparing for launch!
+
+14:44:25.806 [ATL-Logging-Thread] INFO  - Launching pack FTB OceanBlock 2 1.16.0 (CurseForge) for Minecraft 1.21.1
+
+14:44:25.806 [ATL-Logging-Thread] INFO  - Logging into Minecraft!
+
+14:44:25.830 [ATL-Logging-Thread] INFO  - Using Java runtime java-runtime-delta (Java 21.0.7) at path **USERSDIR**\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta
+
+14:44:25.894 [ATL-Logging-Thread] INFO  - Loader: NeoForge 21.1.218
+
+14:44:25.894 [ATL-Logging-Thread] INFO  - Mods:
+
+14:44:25.898 [ATL-Logging-Thread] INFO  -  - \accelerated-decay-neoforge-21.0.0.jar
+
+14:44:25.898 [ATL-Logging-Thread] INFO  -  - \actuallyadditions-1.3.24+mc1.21.1.jar
+
+14:44:25.898 [ATL-Logging-Thread] INFO  -  - \AdvancedAE-1.6.9-1.21.1.jar
+
+14:44:25.898 [ATL-Logging-Thread] INFO  -  - \AdvancementPlaques-1.21.1-neoforge-1.6.8.jar
+
+14:44:25.899 [ATL-Logging-Thread] INFO  -  - \AE2-Things-1.4.2-beta.jar
+
+14:44:25.899 [ATL-Logging-Thread] INFO  -  - \ae2ct-1.21.1-1.1.1.jar
+
+14:44:25.899 [ATL-Logging-Thread] INFO  -  - \ae2jeiintegration-1.2.0.jar
+
+14:44:25.899 [ATL-Logging-Thread] INFO  -  - \AE2MEGAThings-1.21.1-2.0.4.jar
+
+14:44:25.899 [ATL-Logging-Thread] INFO  -  - \ae2wtlib-19.3.0.jar
+
+14:44:25.901 [ATL-Logging-Thread] INFO  -  - \AkashicTome-1.8-29.jar
+
+14:44:25.901 [ATL-Logging-Thread] INFO  -  - \alltheleaks-1.1.6+1.21.1-neoforge.jar
+
+14:44:25.901 [ATL-Logging-Thread] INFO  -  - \almostunified-neoforge-1.21.1-1.3.0.jar
+
+14:44:25.902 [ATL-Logging-Thread] INFO  -  - \antiquetradingship-1.4.0-neoforge-1.21.1.jar
+
+14:44:25.903 [ATL-Logging-Thread] INFO  -  - \ApothicAttributes-1.21.1-2.9.1.jar
+
+14:44:25.904 [ATL-Logging-Thread] INFO  -  - \appleskin-neoforge-mc1.21-3.0.8.jar
+
+14:44:25.904 [ATL-Logging-Thread] INFO  -  - \Applied-Mekanistics-1.6.3.jar
+
+14:44:25.904 [ATL-Logging-Thread] INFO  -  - \appliedenergistics2-19.2.17.jar
+
+14:44:25.905 [ATL-Logging-Thread] INFO  -  - \aquatic_frontiers-1.7-neoforge-1.21.1.jar
+
+14:44:25.905 [ATL-Logging-Thread] INFO  -  - \architectury-13.0.8-neoforge.jar
+
+14:44:25.905 [ATL-Logging-Thread] INFO  -  - \ArmorPoser-neoforge-1.21.1-6.2.3.jar
+
+14:44:25.905 [ATL-Logging-Thread] INFO  -  - \arseng-2.1.1-beta.jar
+
+14:44:25.905 [ATL-Logging-Thread] INFO  -  - \ars_nouveau-1.21.1-5.11.1.jar
+
+14:44:25.905 [ATL-Logging-Thread] INFO  -  - \ars_ocultas-1.21.1-2.2.1.jar
+
+14:44:25.906 [ATL-Logging-Thread] INFO  -  - \athena-neoforge-1.21-4.0.2.jar
+
+14:44:25.907 [ATL-Logging-Thread] INFO  -  - \atlas_api-1.21.1-1.2.0.jar
+
+14:44:25.907 [ATL-Logging-Thread] INFO  -  - \attributefix-neoforge-1.21.1-21.1.3.jar
+
+14:44:25.907 [ATL-Logging-Thread] INFO  -  - \balm-neoforge-1.21.1-21.0.56.jar
+
+14:44:25.907 [ATL-Logging-Thread] INFO  -  - \bambooeverything-neoforge-21.1.2+mc1.21.1.jar
+
+14:44:25.907 [ATL-Logging-Thread] INFO  -  - \baubley-heart-canisters-1.21.1-1.3.1.jar
+
+14:44:25.908 [ATL-Logging-Thread] INFO  -  - \belts-neoforge-0.2.2.jar
+
+14:44:25.908 [ATL-Logging-Thread] INFO  -  - \better-compatability-checker-neoforge-21.1.8.jar
+
+14:44:25.908 [ATL-Logging-Thread] INFO  -  - \BHMenu-NeoForge-1.21-2.4.4.jar
+
+14:44:25.909 [ATL-Logging-Thread] INFO  -  - \bibliocraft-1.21.1-1.6.4.jar
+
+14:44:25.909 [ATL-Logging-Thread] INFO  -  - \BlockRunner-v21.1.2-1.21.1-NeoForge.jar
+
+14:44:25.910 [ATL-Logging-Thread] INFO  -  - \bookshelf-neoforge-1.21.1-21.1.80.jar
+
+14:44:25.910 [ATL-Logging-Thread] INFO  -  - \brickfurnace-neoforge-1.21.1-4.2.1.0.jar
+
+14:44:25.911 [ATL-Logging-Thread] INFO  -  - \BridgingMod-2.6.2+1.21.1.neoforge-release.jar
+
+14:44:25.911 [ATL-Logging-Thread] INFO  -  - \bucketlib-neoforge-1.21-4.1.6.0.jar
+
+14:44:25.911 [ATL-Logging-Thread] INFO  -  - \BuildGuide-1.21-0.4.8.jar
+
+14:44:25.912 [ATL-Logging-Thread] INFO  -  - \buildinggadgets2-1.3.9.jar
+
+14:44:25.912 [ATL-Logging-Thread] INFO  -  - \cable_facades-1.21.1-NeoForge-1.6.5.jar
+
+14:44:25.912 [ATL-Logging-Thread] INFO  -  - \caelus-neoforge-7.0.1+1.21.1.jar
+
+14:44:25.913 [ATL-Logging-Thread] INFO  -  - \CarbonConfig-Neoforge-1.21-1.2.9.6.1.jar
+
+14:44:25.913 [ATL-Logging-Thread] INFO  -  - \carryon-neoforge-1.21.1-2.2.4.4.jar
+
+14:44:25.913 [ATL-Logging-Thread] INFO  -  - \ceramicbucket-neoforge-1.21-6.1.1.0.jar
+
+14:44:25.913 [ATL-Logging-Thread] INFO  -  - \chipped-neoforge-1.21.1-4.0.2.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \ChippedExpress-universal-21x.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \clean_tooltips-1.1-neoforge-1.21.1.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \clienttweaks-neoforge-1.21.1-21.1.10.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \cloth-config-15.0.140-neoforge.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \CloudGlass-1.21.1-1.0.1.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \Clumps-neoforge-1.21.1-19.0.0.1.jar
+
+14:44:25.914 [ATL-Logging-Thread] INFO  -  - \CodeChickenLib-1.21.1-4.6.1.526.jar
+
+14:44:25.916 [ATL-Logging-Thread] INFO  -  - \collective-1.21.1-8.13.jar
+
+14:44:25.916 [ATL-Logging-Thread] INFO  -  - \colorfulhearts-neoforge-1.21.1-10.5.9.jar
+
+14:44:25.917 [ATL-Logging-Thread] INFO  -  - \commoncapabilities-1.21.1-neoforge-2.11.3.jar
+
+14:44:25.917 [ATL-Logging-Thread] INFO  -  - \compactmachines-neoforge-7.0.80.jar
+
+14:44:25.917 [ATL-Logging-Thread] INFO  -  - \connectedglass-1.1.14-neoforge-mc1.21.jar
+
+14:44:25.918 [ATL-Logging-Thread] INFO  -  - \ConstructionSticks-1.21.1-1.2.3.jar
+
+14:44:25.918 [ATL-Logging-Thread] INFO  -  - \Controlling-neoforge-1.21.1-19.0.5.jar
+
+14:44:25.920 [ATL-Logging-Thread] INFO  -  - \cookingforblockheads-neoforge-1.21.1-21.1.17.jar
+
+14:44:25.920 [ATL-Logging-Thread] INFO  -  - \coroutil-neoforge-1.21.0-1.3.8.jar
+
+14:44:25.920 [ATL-Logging-Thread] INFO  -  - \cosmeticarmorreworked-1.21.1-v1-neoforge.jar
+
+14:44:25.922 [ATL-Logging-Thread] INFO  -  - \cpapireforged-neo-1.21.1-1.2.2.jar
+
+14:44:25.924 [ATL-Logging-Thread] INFO  -  - \craftingstation-neoforge-1.21.1-1.6.6.jar
+
+14:44:25.924 [ATL-Logging-Thread] INFO  -  - \craftingtweaks-neoforge-1.21.1-21.1.7.jar
+
+14:44:25.924 [ATL-Logging-Thread] INFO  -  - \crafting_on_a_stick-1.21.0.4.jar
+
+14:44:25.924 [ATL-Logging-Thread] INFO  -  - \CrashAssistant-neoforge-1.20.6-1.21.4-1.10.28.jar
+
+14:44:25.925 [ATL-Logging-Thread] INFO  -  - \crashutilities-9.0.4.jar
+
+14:44:25.925 [ATL-Logging-Thread] INFO  -  - \cropsneedwater-2.1.0.jar
+
+14:44:25.927 [ATL-Logging-Thread] INFO  -  - \Cucumber-1.21.1-8.0.15.jar
+
+14:44:25.927 [ATL-Logging-Thread] INFO  -  - \cupboard-1.21-2.9.jar
+
+14:44:25.927 [ATL-Logging-Thread] INFO  -  - \curios-neoforge-9.5.1+1.21.1.jar
+
+14:44:25.928 [ATL-Logging-Thread] INFO  -  - \cyclopscore-1.21.1-neoforge-1.28.0.jar
+
+14:44:25.928 [ATL-Logging-Thread] INFO  -  - \disconnect-packet-fix-neoforge-2.0.1.jar
+
+14:44:25.929 [ATL-Logging-Thread] INFO  -  - \DnT-ocean-monument-replacement-v1.2 [NeoForge].jar
+
+14:44:25.930 [ATL-Logging-Thread] INFO  -  - \doubledoors-1.21.1-7.2.jar
+
+14:44:25.931 [ATL-Logging-Thread] INFO  -  - \dummmmmmy-1.21-2.0.11-neoforge.jar
+
+14:44:25.932 [ATL-Logging-Thread] INFO  -  - \easy-piglins-neoforge-1.21.1-1.1.0.jar
+
+14:44:25.933 [ATL-Logging-Thread] INFO  -  - \EdivadLib-1.21-3.0.0.jar
+
+14:44:25.933 [ATL-Logging-Thread] INFO  -  - \elevatorid-neoforge-1.21.1-1.11.4.jar
+
+14:44:25.934 [ATL-Logging-Thread] INFO  -  - \embeddium-1.0.15+mc1.21.1.jar
+
+14:44:25.934 [ATL-Logging-Thread] INFO  -  - \Emojiful-Neoforge-1.21-5.2.1-all.jar
+
+14:44:25.934 [ATL-Logging-Thread] INFO  -  - \enchdesc-neoforge-1.21.1-21.1.9.jar
+
+14:44:25.935 [ATL-Logging-Thread] INFO  -  - \enderdrives-neoforge-1.21.1-1.4.4.jar
+
+14:44:25.935 [ATL-Logging-Thread] INFO  -  - \enderio-7.1.8-alpha.jar
+
+14:44:25.935 [ATL-Logging-Thread] INFO  -  - \EnderStorage-1.21.1-2.13.0.191.jar
+
+14:44:25.936 [ATL-Logging-Thread] INFO  -  - \engineeredcompatibility-4.3.0.jar
+
+14:44:25.936 [ATL-Logging-Thread] INFO  -  - \entangled-1.3.20a-neoforge-mc1.21.jar
+
+14:44:25.936 [ATL-Logging-Thread] INFO  -  - \EuphoriaPatcher-1.8.4-r5.7.1-neoforge.jar
+
+14:44:25.936 [ATL-Logging-Thread] INFO  -  - \ExplorersCompass-1.21.1-3.0.3-neoforge.jar
+
+14:44:25.936 [ATL-Logging-Thread] INFO  -  - \explosiveenhancement-neoforge-1.21.1-1.1.2.jar
+
+14:44:25.936 [ATL-Logging-Thread] INFO  -  - \ExtendedAE-1.21-2.2.28-neoforge.jar
+
+14:44:25.937 [ATL-Logging-Thread] INFO  -  - \ExtendedCrafting-1.21.1-7.0.7.jar
+
+14:44:25.938 [ATL-Logging-Thread] INFO  -  - \ExtraStorage-1.21.1-5.0.8.jar
+
+14:44:25.938 [ATL-Logging-Thread] INFO  -  - \ExtremeReactors2-1.21.1-2.4.28.jar
+
+14:44:25.938 [ATL-Logging-Thread] INFO  -  - \ExtremeSoundMuffler-3.54_NeoForge-1.21.jar
+
+14:44:25.938 [ATL-Logging-Thread] INFO  -  - \factory_blocks-neoforge-1.4.0+mc1.21.1.jar
+
+14:44:25.938 [ATL-Logging-Thread] INFO  -  - \fancymenu_neoforge_3.8.1_MC_1.21.1.jar
+
+14:44:25.939 [ATL-Logging-Thread] INFO  -  - \FarmersDelight-1.21.1-1.2.10.jar
+
+14:44:25.939 [ATL-Logging-Thread] INFO  -  - \farmingforblockheads-neoforge-1.21.1-21.1.11.jar
+
+14:44:25.939 [ATL-Logging-Thread] INFO  -  - \farsight-1.21.1-4.5.jar
+
+14:44:25.940 [ATL-Logging-Thread] INFO  -  - \ferritecore-7.0.3-neoforge.jar
+
+14:44:25.940 [ATL-Logging-Thread] INFO  -  - \findme-3.3.3-neoforge.jar
+
+14:44:25.941 [ATL-Logging-Thread] INFO  -  - \fishingreal-neoforge-1.21.1-1.9.1.jar
+
+14:44:25.941 [ATL-Logging-Thread] INFO  -  - \flatbedrock-neoforge-87.0.0.jar
+
+14:44:25.941 [ATL-Logging-Thread] INFO  -  - \flopper-1.21.1-neoforge-1.1.8-198.jar
+
+14:44:25.941 [ATL-Logging-Thread] INFO  -  - \FluxNetworks-1.21.1-8.0.0.jar
+
+14:44:25.941 [ATL-Logging-Thread] INFO  -  - \FramedBlocks-10.5.3.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-auxilium-neoforge-21.1.4.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-chunks-neoforge-2101.1.13.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-essentials-neoforge-2101.1.8.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-filter-system-neoforge-21.1.3.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-jei-extras-21.1.7.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-library-neoforge-2101.1.30.jar
+
+14:44:25.942 [ATL-Logging-Thread] INFO  -  - \ftb-materials-neoforge-21.1.3.jar
+
+14:44:25.943 [ATL-Logging-Thread] INFO  -  - \ftb-pack-companion-21.1.17.jar
+
+14:44:25.943 [ATL-Logging-Thread] INFO  -  - \ftb-pause-menu-api-21.1.3.jar
+
+14:44:25.943 [ATL-Logging-Thread] INFO  -  - \ftb-promoter-21.1.60.jar
+
+14:44:25.944 [ATL-Logging-Thread] INFO  -  - \ftb-quests-neoforge-2101.1.20.jar
+
+14:44:25.944 [ATL-Logging-Thread] INFO  -  - \ftb-ranks-neoforge-2101.1.3.jar
+
+14:44:25.944 [ATL-Logging-Thread] INFO  -  - \ftb-stuff-things-21.1.10.jar
+
+14:44:25.944 [ATL-Logging-Thread] INFO  -  - \ftb-team-bases-neoforge-21.1.6.jar
+
+14:44:25.944 [ATL-Logging-Thread] INFO  -  - \ftb-teams-neoforge-2101.1.9.jar
+
+14:44:25.944 [ATL-Logging-Thread] INFO  -  - \ftb-ultimine-neoforge-2101.1.13.jar
+
+14:44:25.945 [ATL-Logging-Thread] INFO  -  - \ftb-xmod-compat-neoforge-21.1.6.jar
+
+14:44:25.945 [ATL-Logging-Thread] INFO  -  - \ftbbackups2-neoforge-1.21-1.0.28.jar
+
+14:44:25.946 [ATL-Logging-Thread] INFO  -  - \ftboceanmobs-21.1.4.jar
+
+14:44:25.946 [ATL-Logging-Thread] INFO  -  - \ftbrifthelper-21.1.6.jar
+
+14:44:25.946 [ATL-Logging-Thread] INFO  -  - \fulleng-2.3.2.jar
+
+14:44:25.946 [ATL-Logging-Thread] INFO  -  - \functionalstorage-1.21.1-1.5.4.jar
+
+14:44:25.946 [ATL-Logging-Thread] INFO  -  - \fusion-1.2.12-neoforge-mc1.21.1.jar
+
+14:44:25.946 [ATL-Logging-Thread] INFO  -  - \fzzy_config-0.7.6+1.21+neoforge.jar
+
+14:44:25.947 [ATL-Logging-Thread] INFO  -  - \gag-neoforge-1.21.1-5.2.0.jar
+
+14:44:25.947 [ATL-Logging-Thread] INFO  -  - \GatewaysToEternity-1.21.1-5.1.0.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \geckolib-neoforge-1.21.1-4.8.3.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \Glassential-renewed-1.21.1-3.4.1.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \Glodium-1.21-2.2-neoforge.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \guideme-21.1.15.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \HoloSigns-1.21.1-1.0.0.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \HostileNeuralNetworks-1.21.1-6.3.0.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \ibicf-neo-7.0.1+mc1.21.1.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \Iceberg-1.21.1-neoforge-1.3.2.jar
+
+14:44:25.948 [ATL-Logging-Thread] INFO  -  - \illagerwarship-1.0.1-neoforge-1.21.1.jar
+
+14:44:25.949 [ATL-Logging-Thread] INFO  -  - \ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar
+
+14:44:25.950 [ATL-Logging-Thread] INFO  -  - \ImmersiveEngineering-1.21.1-12.4.2-194.jar
+
+14:44:25.950 [ATL-Logging-Thread] INFO  -  - \incontrol-1.21-10.2.6.jar
+
+14:44:25.950 [ATL-Logging-Thread] INFO  -  - \insomniacharm-0.1.0.jar
+
+14:44:25.950 [ATL-Logging-Thread] INFO  -  - \integratedcrafting-1.21.1-neoforge-1.4.3.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \integrateddynamics-1.21.1-neoforge-1.30.5.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \integratedterminals-1.21.1-neoforge-1.6.24.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \integratedtunnels-1.21.1-neoforge-1.9.2.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \inventoryessentials-neoforge-1.21.1-21.1.12.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \inventorysorter-1.21.1-24.0.24.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \iris-neoforge-1.8.12+mc1.21.1.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \ironchest-1.21-neoforge-16.0.7.jar
+
+14:44:25.951 [ATL-Logging-Thread] INFO  -  - \irons_jewelry-1.21.1-1.6.0.jar
+
+14:44:25.952 [ATL-Logging-Thread] INFO  -  - \Jade-1.21.1-NeoForge-15.10.5.jar
+
+14:44:25.953 [ATL-Logging-Thread] INFO  -  - \jags-neo-21.1.5+mc1.21.1.jar
+
+14:44:25.953 [ATL-Logging-Thread] INFO  -  - \jamlib-neoforge-1.3.5+1.21.1.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \jei-1.21.1-neoforge-19.27.0.340.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \jumbofurnace-5.0.0.9.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \JustARaftMod-1.21.1-7.0.4.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \justdirethings-1.5.5.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \justzoom_neoforge_2.1.0_MC_1.21.1.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \konkrete_neoforge_1.9.9_MC_1.21.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \kotlinforforge-5.11.0-all.jar
+
+14:44:25.954 [ATL-Logging-Thread] INFO  -  - \kube-utils-21.1.1.jar
+
+14:44:25.955 [ATL-Logging-Thread] INFO  -  - \kubejs-mekanism-neoforge-2101.1.6-build.6.jar
+
+14:44:25.956 [ATL-Logging-Thread] INFO  -  - \kubejs-neoforge-2101.7.1-build.181.jar
+
+14:44:25.956 [ATL-Logging-Thread] INFO  -  - \kubejs_actuallyadditions-neoforge-1.21.1-0.2.2.jar
+
+14:44:25.956 [ATL-Logging-Thread] INFO  -  - \kubejs_enderio-neoforge-1.21.1-0.7.2.jar
+
+14:44:25.956 [ATL-Logging-Thread] INFO  -  - \laserio-1.9.11.jar
+
+14:44:25.956 [ATL-Logging-Thread] INFO  -  - \LegendaryTooltips-1.21.1-neoforge-1.5.5.jar
+
+14:44:25.957 [ATL-Logging-Thread] INFO  -  - \lionfishapi-2.6.jar
+
+14:44:25.957 [ATL-Logging-Thread] INFO  -  - \lootintegrations-1.21.1-4.7.jar
+
+14:44:25.957 [ATL-Logging-Thread] INFO  -  - \lootintegrations_cataclysm-1.1.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \lootjs-neoforge-1.21.1-3.4.3.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \L_Ender's Cataclysm 1.21.1-3.16.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \mcjtylib-1.21-9.0.20.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \Measurements-neoforge-1.21.1-3.0.3.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \megacells-4.10.2.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \Mekanism-1.21.1-10.7.17.83.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \MekanismTools-1.21.1-10.7.17.83.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \melody_neoforge_1.0.10_MC_1.21.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \merequester-neoforge-1.21.1-1.4.1.jar
+
+14:44:25.958 [ATL-Logging-Thread] INFO  -  - \metalbarrels-neoforge-1.21.1-7.jar
+
+14:44:25.959 [ATL-Logging-Thread] INFO  -  - \mininggadgets-1.18.6.jar
+
+14:44:25.959 [ATL-Logging-Thread] INFO  -  - \mob_grinding_utils-1.1.10+mc1.21.1.jar
+
+14:44:25.959 [ATL-Logging-Thread] INFO  -  - \modernfix-neoforge-5.26.1+mc1.21.1.jar
+
+14:44:25.959 [ATL-Logging-Thread] INFO  -  - \modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar
+
+14:44:25.960 [ATL-Logging-Thread] INFO  -  - \modonomicon-1.21.1-neoforge-1.117.4.jar
+
+14:44:25.960 [ATL-Logging-Thread] INFO  -  - \modular-routers-13.2.4+mc1.21.1.jar
+
+14:44:25.960 [ATL-Logging-Thread] INFO  -  - \monocle-0.2.2.ms.jar
+
+14:44:25.960 [ATL-Logging-Thread] INFO  -  - \moonlight-1.21-2.29.16-neoforge.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \more-immersive-wires-1.21.1-1.1.8.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \morejs-neoforge-1.21-0.14.1.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \moreoverlays-1.24.2-mc1.21.1-neoforge.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \morered-1.21.1-6.0.0.3.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \MouseTweaks-neoforge-mc1.21-2.26.1.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \mru-1.0.19+LTS+1.21.1+neoforge.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \MysticalAgradditions-1.21.1-8.0.12.jar
+
+14:44:25.961 [ATL-Logging-Thread] INFO  -  - \MysticalAgriculture-1.21.1-8.0.22.jar
+
+14:44:25.962 [ATL-Logging-Thread] INFO  -  - \MysticalCustomization-1.21.1-6.0.1.jar
+
+14:44:25.962 [ATL-Logging-Thread] INFO  -  - \NaNny-1.21.1-1.0.1.jar
+
+14:44:25.962 [ATL-Logging-Thread] INFO  -  - \Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar
+
+14:44:25.962 [ATL-Logging-Thread] INFO  -  - \OpenLoader-neoforge-1.21.1-21.1.5.jar
+
+14:44:25.963 [ATL-Logging-Thread] INFO  -  - \Placebo-1.21.1-9.9.1.jar
+
+14:44:25.963 [ATL-Logging-Thread] INFO  -  - \polylib-2100.1.0-build.183-neoforge.jar
+
+14:44:25.963 [ATL-Logging-Thread] INFO  -  - \Powah-6.2.8.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \randombonemealflowers-1.21.1-4.7.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \rechiseled_chipped-2.0-1.21.1.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \refinedstorage-neoforge-2.0.0.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \replication_rs2_bridge-1.21.1-NeoForge-1.2.4.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \rep_ae2_bridge-1.7.0.1.3-neoforge-1.21.1.jar
+
+14:44:25.964 [ATL-Logging-Thread] INFO  -  - \ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar
+
+14:44:25.965 [ATL-Logging-Thread] INFO  -  - \rftoolsbase-1.21-6.0.10.jar
+
+14:44:25.965 [ATL-Logging-Thread] INFO  -  - \rftoolspower-1.21-7.0.5.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \rftoolsutility-1.21-7.0.10.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \rhino-2101.2.7-build.77.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \sophisticatedbackpacks-1.21.1-3.25.26.1521.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \stickit-1.21.1-NeoForge-1.0.3.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \structure-expansion-neoforge-88.0.1.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \supermartijn642corelib-1.1.20-neoforge-mc1.21.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \supplementaries-1.21-3.5.17-neoforge.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \swashbucklers! 2.6.6C 1.21.1 neoforge.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \toofast-1.21.0-0.4.3.6.jar
+
+14:44:25.966 [ATL-Logging-Thread] INFO  -  - \ToolKit-neoforge-87.0.2.jar
+
+14:44:25.967 [ATL-Logging-Thread] INFO  -  - \xtonesreworked-1.1.1-1.21.1.jar
+
+14:44:25.967 [ATL-Logging-Thread] INFO  -  - \yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar
+
+14:44:25.967 [ATL-Logging-Thread] INFO  -  - \YungsApi-1.21.1-NeoForge-5.1.6.jar
+
+14:44:25.968 [ATL-Logging-Thread] INFO  -  - \ZeroCore2-1.21.1-2.4.21.jar
+
+14:44:25.968 [ATL-Logging-Thread] INFO  - Launching Minecraft with the following arguments (user related stuff has been removed): [USERSDIR\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta\bin\javaw, -Xmx12288M, -XX:MetaspaceSize=256M, -Duser.language=en, -Duser.country=US, -Dlog4j.configurationFile=USERSDIR\assets\log_configs\client-1.12.xml, -XX:+UnlockExperimentalVMOptions, -XX:+UseG1GC, -XX:G1NewSizePercent=20, -XX:G1ReservePercent=20, -XX:MaxGCPauseMillis=50, -XX:G1HeapRegionSize=32M, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Djava.library.path=USERSDIR\temp\natives-39b1db02568f4735b7b04cb1aae5ce5f, -Djna.tmpdir=USERSDIR\temp\natives-39b1db02568f4735b7b04cb1aae5ce5f, -Dorg.lwjgl.system.SharedLibraryExtractPath=USERSDIR\temp\natives-39b1db02568f4735b7b04cb1aae5ce5f, -Dio.netty.native.workdir=USERSDIR\temp\natives-39b1db02568f4735b7b04cb1aae5ce5f, -Dminecraft.launcher.brand=ATLauncher, -Dminecraft.launcher.version=3.4.40.2, -cp, USERSDIR\libraries\net\neoforged\fancymodloader\earlydisplay\4.0.42\earlydisplay-4.0.42.jar;USERSDIR\libraries\net\neoforged\fancymodloader\loader\4.0.42\loader-4.0.42.jar;USERSDIR\libraries\net\neoforged\accesstransformers\at-modlauncher\10.0.1\at-modlauncher-10.0.1.jar;USERSDIR\libraries\net\neoforged\accesstransformers\10.0.1\accesstransformers-10.0.1.jar;USERSDIR\libraries\net\neoforged\bus\8.0.5\bus-8.0.5.jar;USERSDIR\libraries\net\neoforged\coremods\7.0.3\coremods-7.0.3.jar;USERSDIR\libraries\cpw\mods\modlauncher\11.0.5\modlauncher-11.0.5.jar;USERSDIR\libraries\net\neoforged\mergetool\2.0.0\mergetool-2.0.0-api.jar;USERSDIR\libraries\com\electronwill\night-config\toml\3.8.3\toml-3.8.3.jar;USERSDIR\libraries\com\electronwill\night-config\core\3.8.3\core-3.8.3.jar;USERSDIR\libraries\net\neoforged\JarJarSelector\0.4.1\JarJarSelector-0.4.1.jar;USERSDIR\libraries\net\neoforged\JarJarMetadata\0.4.1\JarJarMetadata-0.4.1.jar;USERSDIR\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;USERSDIR\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;USERSDIR\libraries\net\minecrell\terminalconsoleappender\1.3.0\terminalconsoleappender-1.3.0.jar;USERSDIR\libraries\net\fabricmc\sponge-mixin\0.15.2+mixin.0.8.7\sponge-mixin-0.15.2+mixin.0.8.7.jar;USERSDIR\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;USERSDIR\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;USERSDIR\libraries\cpw\mods\bootstraplauncher\2.0.2\bootstraplauncher-2.0.2.jar;USERSDIR\libraries\cpw\mods\securejarhandler\3.0.8\securejarhandler-3.0.8.jar;USERSDIR\libraries\org\ow2\asm\asm-commons\9.8\asm-commons-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-util\9.8\asm-util-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-analysis\9.8\asm-analysis-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-tree\9.8\asm-tree-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm\9.8\asm-9.8.jar;USERSDIR\libraries\net\neoforged\JarJarFileSystems\0.4.1\JarJarFileSystems-0.4.1.jar;USERSDIR\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;USERSDIR\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar;USERSDIR\libraries\org\antlr\antlr4-runtime\4.13.1\antlr4-runtime-4.13.1.jar;USERSDIR\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar;USERSDIR\libraries\org\jline\jline-reader\3.20.0\jline-reader-3.20.0.jar;USERSDIR\libraries\org\jline\jline-terminal\3.20.0\jline-terminal-3.20.0.jar;USERSDIR\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;USERSDIR\libraries\net\minecraftforge\srgutils\0.4.15\srgutils-0.4.15.jar;USERSDIR\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;USERSDIR\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;USERSDIR\libraries\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;USERSDIR\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;USERSDIR\libraries\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;USERSDIR\libraries\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;USERSDIR\libraries\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;USERSDIR\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;USERSDIR\libraries\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;USERSDIR\libraries\com\machinezoo\noexception\noexception\1.7.1\noexception-1.7.1.jar;USERSDIR\libraries\com\github\oshi\oshi-core\6.4.10\oshi-core-6.4.10.jar;USERSDIR\libraries\com\ibm\icu\icu4j\73.2\icu4j-73.2.jar;USERSDIR\libraries\com\mojang\authlib\6.0.54\authlib-6.0.54.jar;USERSDIR\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;USERSDIR\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;USERSDIR\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;USERSDIR\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;USERSDIR\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;USERSDIR\libraries\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;USERSDIR\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;USERSDIR\libraries\io\netty\netty-buffer\4.1.97.Final\netty-buffer-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-codec\4.1.97.Final\netty-codec-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-common\4.1.97.Final\netty-common-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-handler\4.1.97.Final\netty-handler-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-resolver\4.1.97.Final\netty-resolver-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-transport-classes-epoll\4.1.97.Final\netty-transport-classes-epoll-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-transport-native-unix-common\4.1.97.Final\netty-transport-native-unix-common-4.1.97.Final.jar;USERSDIR\libraries\io\netty\netty-transport\4.1.97.Final\netty-transport-4.1.97.Final.jar;USERSDIR\libraries\it\unimi\dsi\fastutil\8.5.12\fastutil-8.5.12.jar;USERSDIR\libraries\net\java\dev\jna\jna-platform\5.14.0\jna-platform-5.14.0.jar;USERSDIR\libraries\net\java\dev\jna\jna\5.14.0\jna-5.14.0.jar;USERSDIR\libraries\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;USERSDIR\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;USERSDIR\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;USERSDIR\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;USERSDIR\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;USERSDIR\libraries\net\minecraft\client\1.21.1\client-1.21.1.jar, -Djava.net.preferIPv6Addresses=system, -DignoreList=client-extra,client-1.21.1.jar, -DlibraryDirectory=USERSDIR\libraries, -p, USERSDIR\libraries/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar;USERSDIR\libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar;USERSDIR\libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar;USERSDIR\libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar;USERSDIR\libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar;USERSDIR\libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar;USERSDIR\libraries/org/ow2/asm/asm/9.8/asm-9.8.jar;USERSDIR\libraries/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar, --add-modules, ALL-MODULE-PATH, --add-opens, java.base/java.util.jar=cpw.mods.securejarhandler, --add-opens, java.base/java.lang.invoke=cpw.mods.securejarhandler, --add-exports, java.base/sun.security.util=cpw.mods.securejarhandler, --add-exports, jdk.naming.dns/com.sun.jndi.dns=java.naming, cpw.mods.bootstraplauncher.BootstrapLauncher, --username, REDACTED, --version, 1.21.1, --gameDir, USERSDIR\instances\FTBOceanBlock2, --assetsDir, USERSDIR\assets, --assetIndex, 17, --uuid, 77cabfe1-4c69-45e0-90e0-336aa9432c3b, --accessToken, REDACTED, --userType, msa, --versionType, release, --fml.neoForgeVersion, 21.1.218, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, --launchTarget, forgeclient, --width=854, --height=480]
+
+14:45:28.891 [ATL-Logging-Thread] INFO  - Checking for updated files!
+
+14:45:28.891 [ATL-Logging-Thread] INFO  - Checking for updates to CurseForge instances
+
+14:46:44.441 [ATL-Logging-Thread] INFO  - Preparing for launch!
+
+14:46:45.026 [ATL-Logging-Thread] INFO  - Launching pack FTB OceanBlock 2 1.16.0 (CurseForge) for Minecraft 1.21.1
+
+14:46:45.026 [ATL-Logging-Thread] INFO  - Logging into Minecraft!
+
+14:46:45.054 [ATL-Logging-Thread] INFO  - Using Java runtime java-runtime-delta (Java 21.0.7) at path **USERSDIR**\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta
+
+14:46:45.116 [ATL-Logging-Thread] INFO  - Loader: NeoForge 21.1.218
+
+14:46:45.116 [ATL-Logging-Thread] INFO  - Mods:
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \accelerated-decay-neoforge-21.0.0.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \actuallyadditions-1.3.24+mc1.21.1.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \AdvancedAE-1.6.9-1.21.1.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \AdvancementPlaques-1.21.1-neoforge-1.6.8.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \AE2-Things-1.4.2-beta.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \ae2ct-1.21.1-1.1.1.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \ae2jeiintegration-1.2.0.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \AE2MEGAThings-1.21.1-2.0.4.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \ae2wtlib-19.3.0.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \AkashicTome-1.8-29.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \alltheleaks-1.1.6+1.21.1-neoforge.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \almostunified-neoforge-1.21.1-1.3.0.jar
+
+14:46:45.117 [ATL-Logging-Thread] INFO  -  - \antiquetradingship-1.4.0-neoforge-1.21.1.jar
+
+14:46:45.119 [ATL-Logging-Thread] INFO  -  - \ApothicAttributes-1.21.1-2.9.1.jar
+
+14:46:45.119 [ATL-Logging-Thread] INFO  -  - \appleskin-neoforge-mc1.21-3.0.8.jar
+
+14:46:45.120 [ATL-Logging-Thread] INFO  -  - \Applied-Mekanistics-1.6.3.jar
+
+14:46:45.120 [ATL-Logging-Thread] INFO  -  - \appliedenergistics2-19.2.17.jar
+
+14:46:45.120 [ATL-Logging-Thread] INFO  -  - \aquatic_frontiers-1.7-neoforge-1.21.1.jar
+
+14:46:45.121 [ATL-Logging-Thread] INFO  -  - \architectury-13.0.8-neoforge.jar
+
+14:46:45.121 [ATL-Logging-Thread] INFO  -  - \ArmorPoser-neoforge-1.21.1-6.2.3.jar
+
+14:46:45.121 [ATL-Logging-Thread] INFO  -  - \arseng-2.1.1-beta.jar
+
+14:46:45.121 [ATL-Logging-Thread] INFO  -  - \ars_nouveau-1.21.1-5.11.1.jar
+
+14:46:45.121 [ATL-Logging-Thread] INFO  -  - \ars_ocultas-1.21.1-2.2.1.jar
+
+14:46:45.121 [ATL-Logging-Thread] INFO  -  - \athena-neoforge-1.21-4.0.2.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \atlas_api-1.21.1-1.2.0.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \attributefix-neoforge-1.21.1-21.1.3.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \balm-neoforge-1.21.1-21.0.56.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \bambooeverything-neoforge-21.1.2+mc1.21.1.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \baubley-heart-canisters-1.21.1-1.3.1.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \belts-neoforge-0.2.2.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \better-compatability-checker-neoforge-21.1.8.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \BHMenu-NeoForge-1.21-2.4.4.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \bibliocraft-1.21.1-1.6.4.jar
+
+14:46:45.123 [ATL-Logging-Thread] INFO  -  - \BlockRunner-v21.1.2-1.21.1-NeoForge.jar
+
+14:46:45.125 [ATL-Logging-Thread] INFO  -  - \bookshelf-neoforge-1.21.1-21.1.80.jar
+
+14:46:45.125 [ATL-Logging-Thread] INFO  -  - \brickfurnace-neoforge-1.21.1-4.2.1.0.jar
+
+14:46:45.125 [ATL-Logging-Thread] INFO  -  - \BridgingMod-2.6.2+1.21.1.neoforge-release.jar
+
+14:46:45.126 [ATL-Logging-Thread] INFO  -  - \bucketlib-neoforge-1.21-4.1.6.0.jar
+
+14:46:45.126 [ATL-Logging-Thread] INFO  -  - \BuildGuide-1.21-0.4.8.jar
+
+14:46:45.127 [ATL-Logging-Thread] INFO  -  - \buildinggadgets2-1.3.9.jar
+
+14:46:45.128 [ATL-Logging-Thread] INFO  -  - \cable_facades-1.21.1-NeoForge-1.6.5.jar
+
+14:46:45.128 [ATL-Logging-Thread] INFO  -  - \caelus-neoforge-7.0.1+1.21.1.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \CarbonConfig-Neoforge-1.21-1.2.9.6.1.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \carryon-neoforge-1.21.1-2.2.4.4.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \ceramicbucket-neoforge-1.21-6.1.1.0.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \chipped-neoforge-1.21.1-4.0.2.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \ChippedExpress-universal-21x.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \clean_tooltips-1.1-neoforge-1.21.1.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \clienttweaks-neoforge-1.21.1-21.1.10.jar
+
+14:46:45.129 [ATL-Logging-Thread] INFO  -  - \cloth-config-15.0.140-neoforge.jar
+
+14:46:45.130 [ATL-Logging-Thread] INFO  -  - \CloudGlass-1.21.1-1.0.1.jar
+
+14:46:45.130 [ATL-Logging-Thread] INFO  -  - \Clumps-neoforge-1.21.1-19.0.0.1.jar
+
+14:46:45.132 [ATL-Logging-Thread] INFO  -  - \CodeChickenLib-1.21.1-4.6.1.526.jar
+
+14:46:45.132 [ATL-Logging-Thread] INFO  -  - \collective-1.21.1-8.13.jar
+
+14:46:45.132 [ATL-Logging-Thread] INFO  -  - \colorfulhearts-neoforge-1.21.1-10.5.9.jar
+
+14:46:45.132 [ATL-Logging-Thread] INFO  -  - \commoncapabilities-1.21.1-neoforge-2.11.3.jar
+
+14:46:45.132 [ATL-Logging-Thread] INFO  -  - \compactmachines-neoforge-7.0.80.jar
+
+14:46:45.132 [ATL-Logging-Thread] INFO  -  - \connectedglass-1.1.14-neoforge-mc1.21.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \ConstructionSticks-1.21.1-1.2.3.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \Controlling-neoforge-1.21.1-19.0.5.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \cookingforblockheads-neoforge-1.21.1-21.1.17.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \coroutil-neoforge-1.21.0-1.3.8.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \cosmeticarmorreworked-1.21.1-v1-neoforge.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \cpapireforged-neo-1.21.1-1.2.2.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \craftingstation-neoforge-1.21.1-1.6.6.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \craftingtweaks-neoforge-1.21.1-21.1.7.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \crafting_on_a_stick-1.21.0.4.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \CrashAssistant-neoforge-1.20.6-1.21.4-1.10.28.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \crashutilities-9.0.4.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \cropsneedwater-2.1.0.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \Cucumber-1.21.1-8.0.15.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \cupboard-1.21-2.9.jar
+
+14:46:45.134 [ATL-Logging-Thread] INFO  -  - \curios-neoforge-9.5.1+1.21.1.jar
+
+14:46:45.136 [ATL-Logging-Thread] INFO  -  - \cyclopscore-1.21.1-neoforge-1.28.0.jar
+
+14:46:45.136 [ATL-Logging-Thread] INFO  -  - \disconnect-packet-fix-neoforge-2.0.1.jar
+
+14:46:45.139 [ATL-Logging-Thread] INFO  -  - \DnT-ocean-monument-replacement-v1.2 [NeoForge].jar
+
+14:46:45.140 [ATL-Logging-Thread] INFO  -  - \doubledoors-1.21.1-7.2.jar
+
+14:46:45.140 [ATL-Logging-Thread] INFO  -  - \dummmmmmy-1.21-2.0.11-neoforge.jar
+
+14:46:45.140 [ATL-Logging-Thread] INFO  -  - \easy-piglins-neoforge-1.21.1-1.1.0.jar
+
+14:46:45.140 [ATL-Logging-Thread] INFO  -  - \EdivadLib-1.21-3.0.0.jar
+
+14:46:45.140 [ATL-Logging-Thread] INFO  -  - \elevatorid-neoforge-1.21.1-1.11.4.jar
+
+14:46:45.140 [ATL-Logging-Thread] INFO  -  - \embeddium-1.0.15+mc1.21.1.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \Emojiful-Neoforge-1.21-5.2.1-all.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \enchdesc-neoforge-1.21.1-21.1.9.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \enderdrives-neoforge-1.21.1-1.4.4.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \enderio-7.1.8-alpha.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \EnderStorage-1.21.1-2.13.0.191.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \engineeredcompatibility-4.3.0.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \entangled-1.3.20a-neoforge-mc1.21.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \EuphoriaPatcher-1.8.4-r5.7.1-neoforge.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \ExplorersCompass-1.21.1-3.0.3-neoforge.jar
+
+14:46:45.141 [ATL-Logging-Thread] INFO  -  - \explosiveenhancement-neoforge-1.21.1-1.1.2.jar
+
+14:46:45.142 [ATL-Logging-Thread] INFO  -  - \ExtendedAE-1.21-2.2.28-neoforge.jar
+
+14:46:45.145 [ATL-Logging-Thread] INFO  -  - \ExtendedCrafting-1.21.1-7.0.7.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \ExtraStorage-1.21.1-5.0.8.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \ExtremeReactors2-1.21.1-2.4.28.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \ExtremeSoundMuffler-3.54_NeoForge-1.21.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \factory_blocks-neoforge-1.4.0+mc1.21.1.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \fancymenu_neoforge_3.8.1_MC_1.21.1.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \FarmersDelight-1.21.1-1.2.10.jar
+
+14:46:45.146 [ATL-Logging-Thread] INFO  -  - \farmingforblockheads-neoforge-1.21.1-21.1.11.jar
+
+14:46:45.148 [ATL-Logging-Thread] INFO  -  - \farsight-1.21.1-4.5.jar
+
+14:46:45.149 [ATL-Logging-Thread] INFO  -  - \ferritecore-7.0.3-neoforge.jar
+
+14:46:45.150 [ATL-Logging-Thread] INFO  -  - \findme-3.3.3-neoforge.jar
+
+14:46:45.150 [ATL-Logging-Thread] INFO  -  - \fishingreal-neoforge-1.21.1-1.9.1.jar
+
+14:46:45.150 [ATL-Logging-Thread] INFO  -  - \flatbedrock-neoforge-87.0.0.jar
+
+14:46:45.150 [ATL-Logging-Thread] INFO  -  - \flopper-1.21.1-neoforge-1.1.8-198.jar
+
+14:46:45.150 [ATL-Logging-Thread] INFO  -  - \FluxNetworks-1.21.1-8.0.0.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \FramedBlocks-10.5.3.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-auxilium-neoforge-21.1.4.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-chunks-neoforge-2101.1.13.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-essentials-neoforge-2101.1.8.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-filter-system-neoforge-21.1.3.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-jei-extras-21.1.7.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-library-neoforge-2101.1.30.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-materials-neoforge-21.1.3.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-pack-companion-21.1.17.jar
+
+14:46:45.151 [ATL-Logging-Thread] INFO  -  - \ftb-pause-menu-api-21.1.3.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-promoter-21.1.60.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-quests-neoforge-2101.1.20.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-ranks-neoforge-2101.1.3.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-stuff-things-21.1.10.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-team-bases-neoforge-21.1.6.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-teams-neoforge-2101.1.9.jar
+
+14:46:45.152 [ATL-Logging-Thread] INFO  -  - \ftb-ultimine-neoforge-2101.1.13.jar
+
+14:46:45.154 [ATL-Logging-Thread] INFO  -  - \ftb-xmod-compat-neoforge-21.1.6.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \ftbbackups2-neoforge-1.21-1.0.28.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \ftboceanmobs-21.1.4.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \ftbrifthelper-21.1.6.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \fulleng-2.3.2.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \functionalstorage-1.21.1-1.5.4.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \fusion-1.2.12-neoforge-mc1.21.1.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \fzzy_config-0.7.6+1.21+neoforge.jar
+
+14:46:45.156 [ATL-Logging-Thread] INFO  -  - \gag-neoforge-1.21.1-5.2.0.jar
+
+14:46:45.157 [ATL-Logging-Thread] INFO  -  - \GatewaysToEternity-1.21.1-5.1.0.jar
+
+14:46:45.157 [ATL-Logging-Thread] INFO  -  - \geckolib-neoforge-1.21.1-4.8.3.jar
+
+14:46:45.157 [ATL-Logging-Thread] INFO  -  - \Glassential-renewed-1.21.1-3.4.1.jar
+
+14:46:45.157 [ATL-Logging-Thread] INFO  -  - \Glodium-1.21-2.2-neoforge.jar
+
+14:46:45.157 [ATL-Logging-Thread] INFO  -  - \guideme-21.1.15.jar
+
+14:46:45.157 [ATL-Logging-Thread] INFO  -  - \HoloSigns-1.21.1-1.0.0.jar
+
+14:46:45.158 [ATL-Logging-Thread] INFO  -  - \HostileNeuralNetworks-1.21.1-6.3.0.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \I18nUpdateMod-3.7.0-all.jar (Added)
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \ibicf-neo-7.0.1+mc1.21.1.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \Iceberg-1.21.1-neoforge-1.3.2.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \illagerwarship-1.0.1-neoforge-1.21.1.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \ImmersiveEngineering-1.21.1-12.4.2-194.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \incontrol-1.21-10.2.6.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \insomniacharm-0.1.0.jar
+
+14:46:45.159 [ATL-Logging-Thread] INFO  -  - \integratedcrafting-1.21.1-neoforge-1.4.3.jar
+
+14:46:45.161 [ATL-Logging-Thread] INFO  -  - \integrateddynamics-1.21.1-neoforge-1.30.5.jar
+
+14:46:45.161 [ATL-Logging-Thread] INFO  -  - \integratedterminals-1.21.1-neoforge-1.6.24.jar
+
+14:46:45.161 [ATL-Logging-Thread] INFO  -  - \integratedtunnels-1.21.1-neoforge-1.9.2.jar
+
+14:46:45.161 [ATL-Logging-Thread] INFO  -  - \inventoryessentials-neoforge-1.21.1-21.1.12.jar
+
+14:46:45.161 [ATL-Logging-Thread] INFO  -  - \inventorysorter-1.21.1-24.0.24.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \iris-neoforge-1.8.12+mc1.21.1.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \ironchest-1.21-neoforge-16.0.7.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \irons_jewelry-1.21.1-1.6.0.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \Jade-1.21.1-NeoForge-15.10.5.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \jags-neo-21.1.5+mc1.21.1.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \jamlib-neoforge-1.3.5+1.21.1.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \jei-1.21.1-neoforge-19.27.0.340.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \jumbofurnace-5.0.0.9.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \JustARaftMod-1.21.1-7.0.4.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \justdirethings-1.5.5.jar
+
+14:46:45.162 [ATL-Logging-Thread] INFO  -  - \justzoom_neoforge_2.1.0_MC_1.21.1.jar
+
+14:46:45.163 [ATL-Logging-Thread] INFO  -  - \konkrete_neoforge_1.9.9_MC_1.21.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \kotlinforforge-5.11.0-all.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \kube-utils-21.1.1.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \kubejs-mekanism-neoforge-2101.1.6-build.6.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \ldlib2-neoforge-1.21.1-2.2.1-all.jar (Added)
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \LegendaryTooltips-1.21.1-neoforge-1.5.5.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \lootintegrations-1.21.1-4.7.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \lootintegrations_cataclysm-1.1.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \Measurements-neoforge-1.21.1-3.0.3.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \Mekanism-1.21.1-10.7.17.83.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \MekanismTools-1.21.1-10.7.17.83.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \metalbarrels-neoforge-1.21.1-7.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \mininggadgets-1.18.6.jar
+
+14:46:45.164 [ATL-Logging-Thread] INFO  -  - \mob_grinding_utils-1.1.10+mc1.21.1.jar
+
+14:46:45.167 [ATL-Logging-Thread] INFO  -  - \modonomicon-1.21.1-neoforge-1.117.4.jar
+
+14:46:45.167 [ATL-Logging-Thread] INFO  -  - \pnc_ocean_addons-1.0.3.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \polylib-2100.1.0-build.183-neoforge.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \pop-21.1.2.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \prickle-neoforge-1.21.1-21.1.11.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \Prism-1.21.1-neoforge-1.0.11.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \rhino-2101.2.7-build.77.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \rusticdelight-neoforge-1.21-1.5.2.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \Searchables-neoforge-1.21.1-1.0.2.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \servercore-neoforge-1.5.10+1.21.1.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \simplemagnets-1.1.12c-neoforge-mc1.21.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \simple_weather-1.0.13-hotfix.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \simplylight-1.5.3+1.21.1-b4.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \SmartBrainLib-neoforge-1.21.1-1.16.11.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \solcarrot-1.21.1-1.16.6.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \sophisticatedbackpacks-1.21.1-3.25.26.1521.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \sophisticatedcore-1.21.1-1.4.3.1474.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \soulbound-neoforge-1.0.1+1.21.1.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \squatgrow-neoforge-21.1.2+mc1.21.1.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \starbunclemania-1.21.1-1.5.3.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \structure-expansion-neoforge-88.0.1.jar
+
+14:46:45.168 [ATL-Logging-Thread] INFO  -  - \supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
+
+14:46:45.169 [ATL-Logging-Thread] INFO  -  - \supermartijn642corelib-1.1.20-neoforge-mc1.21.jar
+
+14:47:40.871 [ATL-Logging-Thread] INFO  - Checking for updated files!
+
+14:47:40.871 [ATL-Logging-Thread] INFO  - Checking for updates to CurseForge instances
+
